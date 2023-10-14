@@ -1,4 +1,4 @@
-const url = 'http://127.0.0.1:5500/MP2/js/api.js';
+const url = 'https://michellekodego.github.io/MP2_sample/js/api.js';
 
 fetch(url)
 .then( response => response.json()) //object
